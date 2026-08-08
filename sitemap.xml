@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lionsetal.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://lionsetal.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://lionsetal.pages.dev/</loc>
+<loc>https://lionsetal.com/</loc>
 </url>
 <url>
-<loc>https://lionsetal.pages.dev/authors/michael-g-honer/</loc>
+<loc>https://lionsetal.com/authors/michael-g-honer/</loc>
 </url>
 <url>
-<loc>https://lionsetal.pages.dev/hello-there.html</loc>
+<loc>https://lionsetal.com/hello-there.html</loc>
 <lastmod>2026-08-08T10:09:42-04:00</lastmod>
 <image:image>
-<image:loc>https://lionsetal.pages.dev/media/posts/3/LionsEtAl_Post1.jpg</image:loc>
+<image:loc>https://lionsetal.com/media/posts/3/LionsEtAl_Post1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://lionsetal.pages.dev/second-test-post.html</loc>
+<loc>https://lionsetal.com/second-test-post.html</loc>
 <lastmod>2026-08-01T15:45:48-04:00</lastmod>
 <image:image>
-<image:loc>https://lionsetal.pages.dev/media/posts/2/Second-Test-Post.jpg</image:loc>
+<image:loc>https://lionsetal.com/media/posts/2/Second-Test-Post.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://lionsetal.pages.dev/test-post.html</loc>
+<loc>https://lionsetal.com/test-post.html</loc>
 <lastmod>2026-08-01T14:16:04-04:00</lastmod>
 <image:image>
-<image:loc>https://lionsetal.pages.dev/media/posts/1/Page-1-2.jpeg</image:loc>
+<image:loc>https://lionsetal.com/media/posts/1/Page-1-2.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://lionsetal.pages.dev/media/posts/1/Page-2.jpeg</image:loc>
+<image:loc>https://lionsetal.com/media/posts/1/Page-2.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://lionsetal.pages.dev/media/posts/1/Page-3.jpeg</image:loc>
+<image:loc>https://lionsetal.com/media/posts/1/Page-3.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

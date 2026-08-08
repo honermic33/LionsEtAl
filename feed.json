@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Lions et al.",
     "description": "",
-    "home_page_url": "https://lionsetal.pages.dev",
-    "feed_url": "https://lionsetal.pages.dev/feed.json",
+    "home_page_url": "https://lionsetal.com",
+    "feed_url": "https://lionsetal.com/feed.json",
     "user_comment": "",
-    "icon": "https://lionsetal.pages.dev/media/website/Lions-Pen-Logo.png",
+    "icon": "https://lionsetal.com/media/website/Lions-Pen-Logo.png",
     "author": {
         "name": "Michael G. Honer"
     },
     "items": [
         {
-            "id": "https://lionsetal.pages.dev/hello-there.html",
-            "url": "https://lionsetal.pages.dev/hello-there.html",
+            "id": "https://lionsetal.com/hello-there.html",
+            "url": "https://lionsetal.com/hello-there.html",
             "title": "Hello there.",
-            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.pages.dev/media/posts/3/LionsEtAl_Post1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.pages.dev/media/posts/3/LionsEtAl_Post1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n\n<p> </p>",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/3/LionsEtAl_Post1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/3/LionsEtAl_Post1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n\n<p> </p>",
             "author": {
                 "name": "Michael G. Honer"
             },
@@ -25,11 +25,11 @@
             "date_modified": "2026-08-08T10:09:42-04:00"
         },
         {
-            "id": "https://lionsetal.pages.dev/second-test-post.html",
-            "url": "https://lionsetal.pages.dev/second-test-post.html",
+            "id": "https://lionsetal.com/second-test-post.html",
+            "url": "https://lionsetal.com/second-test-post.html",
             "title": "Second Test Post",
-            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.pages.dev/media/posts/2/Second-Test-Post.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.pages.dev/media/posts/2/Second-Test-Post.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n\n<p> </p>",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/2/Second-Test-Post.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/2/Second-Test-Post.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n\n<p> </p>",
             "author": {
                 "name": "Michael G. Honer"
             },
@@ -39,11 +39,11 @@
             "date_modified": "2026-08-01T15:45:48-04:00"
         },
         {
-            "id": "https://lionsetal.pages.dev/test-post.html",
-            "url": "https://lionsetal.pages.dev/test-post.html",
+            "id": "https://lionsetal.com/test-post.html",
+            "url": "https://lionsetal.com/test-post.html",
             "title": "Test Post",
-            "summary": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.pages.dev/media/posts/1/Page-1-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.pages.dev/media/posts/1/Page-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.pages.dev/media/posts/1/Page-3.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.pages.dev/media/posts/1/Page-1-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.pages.dev/media/posts/1/Page-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.pages.dev/media/posts/1/Page-3.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n\n  <p>\n    \n  </p>",
+            "summary": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.com/media/posts/1/Page-1-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.com/media/posts/1/Page-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.com/media/posts/1/Page-3.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.com/media/posts/1/Page-1-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.com/media/posts/1/Page-2.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://lionsetal.com/media/posts/1/Page-3.jpeg\" height=\"5712\" width=\"4284\" alt=\"\" >\n      \n    </figure>\n\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Michael G. Honer"
             },
