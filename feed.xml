@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Lions et al.</title>
-    <link href="https://lionsetal.com/feed.xml" rel="self" />
-    <link href="https://lionsetal.com" />
+    <link href="https://lionsetal.pages.dev/feed.xml" rel="self" />
+    <link href="https://lionsetal.pages.dev" />
     <updated>2026-08-08T10:09:42-04:00</updated>
     <author>
         <name>Michael G. Honer</name>
     </author>
-    <id>https://lionsetal.com</id>
+    <id>https://lionsetal.pages.dev</id>
 
     <entry>
         <title>Hello there.</title>
         <author>
             <name>Michael G. Honer</name>
         </author>
-        <link href="https://lionsetal.com/hello-there.html"/>
-        <id>https://lionsetal.com/hello-there.html</id>
+        <link href="https://lionsetal.pages.dev/hello-there.html"/>
+        <id>https://lionsetal.pages.dev/hello-there.html</id>
 
         <updated>2026-08-08T10:09:21-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/3/LionsEtAl_Post1.jpg" alt="" width="4284" height="5712"></figure>
+                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.pages.dev/media/posts/3/LionsEtAl_Post1.jpg" alt="" width="4284" height="5712"></figure>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/3/LionsEtAl_Post1.jpg" alt="" width="4284" height="5712"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.pages.dev/media/posts/3/LionsEtAl_Post1.jpg" alt="" width="4284" height="5712"></figure>
 
 <p> </p>
             ]]>
@@ -37,19 +37,19 @@
         <author>
             <name>Michael G. Honer</name>
         </author>
-        <link href="https://lionsetal.com/second-test-post.html"/>
-        <id>https://lionsetal.com/second-test-post.html</id>
+        <link href="https://lionsetal.pages.dev/second-test-post.html"/>
+        <id>https://lionsetal.pages.dev/second-test-post.html</id>
 
         <updated>2026-08-01T15:45:34-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/2/Second-Test-Post.jpg" alt="" width="4284" height="5712"></figure>
+                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.pages.dev/media/posts/2/Second-Test-Post.jpg" alt="" width="4284" height="5712"></figure>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/2/Second-Test-Post.jpg" alt="" width="4284" height="5712"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.pages.dev/media/posts/2/Second-Test-Post.jpg" alt="" width="4284" height="5712"></figure>
 
 <p> </p>
             ]]>
@@ -60,25 +60,25 @@
         <author>
             <name>Michael G. Honer</name>
         </author>
-        <link href="https://lionsetal.com/test-post.html"/>
-        <id>https://lionsetal.com/test-post.html</id>
+        <link href="https://lionsetal.pages.dev/test-post.html"/>
+        <id>https://lionsetal.pages.dev/test-post.html</id>
 
         <updated>2026-08-01T08:41:05-04:00</updated>
             <summary type="html">
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://lionsetal.com/media/posts/1/Page-1-2.jpeg" height="5712" width="4284" alt="" >
+      <img loading="lazy" src="https://lionsetal.pages.dev/media/posts/1/Page-1-2.jpeg" height="5712" width="4284" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://lionsetal.com/media/posts/1/Page-2.jpeg" height="5712" width="4284" alt="" >
+      <img loading="lazy" src="https://lionsetal.pages.dev/media/posts/1/Page-2.jpeg" height="5712" width="4284" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://lionsetal.com/media/posts/1/Page-3.jpeg" height="5712" width="4284" alt="" >
+      <img loading="lazy" src="https://lionsetal.pages.dev/media/posts/1/Page-3.jpeg" height="5712" width="4284" alt="" >
       
     </figure>
 
@@ -88,17 +88,17 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://lionsetal.com/media/posts/1/Page-1-2.jpeg" height="5712" width="4284" alt="" >
+      <img loading="lazy" src="https://lionsetal.pages.dev/media/posts/1/Page-1-2.jpeg" height="5712" width="4284" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://lionsetal.com/media/posts/1/Page-2.jpeg" height="5712" width="4284" alt="" >
+      <img loading="lazy" src="https://lionsetal.pages.dev/media/posts/1/Page-2.jpeg" height="5712" width="4284" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://lionsetal.com/media/posts/1/Page-3.jpeg" height="5712" width="4284" alt="" >
+      <img loading="lazy" src="https://lionsetal.pages.dev/media/posts/1/Page-3.jpeg" height="5712" width="4284" alt="" >
       
     </figure>
 
