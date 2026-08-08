@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/text-post-text-and-image.html",
+            "url": "https://lionsetal.com/text-post-text-and-image.html",
+            "title": "Text Post Text &amp; Image",
+            "summary": "<p>Test post Text. Here's an image:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/4/anishinaabe-repeating-pattern.png\" alt=\"\" width=\"1024\" height=\"1023\"></figure>\n",
+            "content_html": "<p>Test post Text. Here's an image:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/4/anishinaabe-repeating-pattern.png\" alt=\"\" width=\"1024\" height=\"1023\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-08T12:09:54-04:00",
+            "date_modified": "2026-08-08T12:09:54-04:00"
+        },
+        {
             "id": "https://lionsetal.com/hello-there.html",
             "url": "https://lionsetal.com/hello-there.html",
             "title": "Hello there.",
