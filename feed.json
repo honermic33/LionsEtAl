@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/first-impressions.html",
+            "url": "https://lionsetal.com/first-impressions.html",
+            "title": "First Impressions",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/5/LionsEtAl_Post2.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/5/LionsEtAl_Post2.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-21T20:16:20-04:00",
+            "date_modified": "2026-08-21T20:16:35-04:00"
+        },
+        {
             "id": "https://lionsetal.com/hello-there.html",
             "url": "https://lionsetal.com/hello-there.html",
             "title": "Hello there.",
