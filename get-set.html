@@ -1,0 +1,117 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>Lions et al.</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double&family=Doto:wght@700&display=swap" rel="stylesheet"><link rel="stylesheet" href="https://lionsetal.com/assets/css/style.css"></head><body><header class="site-header"><h1 class="site-title"><a href="https://lionsetal.com/">Lions et al.</a> <img class="pixel-football" src="https://lionsetal.com/assets/images/pixel-football.png" alt="pixel football"></h1><div class="site-subtitle">Notes on The Lions &amp; the rest</div></header><div id="posts" class="single-post"><article class="post"><h2 class="post-title">Get Set</h2><div class="post-meta"><time datetime="2026-09-02T21:39">Sep 2, 2026</time></div><div class="post-content"><figure class="post__image"><img loading="lazy" src="https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg" alt="" width="4040" height="5684"></figure><p> </p></div></article></div><script>// Publii's gallery plugin (Core/Simple Lightbox Gallery) wraps body images in
+// link/lightbox markup, and often hides every image but one until the
+// lightbox JS runs. On this individual post page we want every body image to
+// render as a plain, visible image, stacked in order, with no click or
+// lightbox behavior — so we strip that out defensively, and run the cleanup
+// more than once in case the gallery plugin initializes after we do.
+function lionsEtAlCleanPostImages() {
+  var content = document.querySelector('.single-post .post-content');
+  if (!content) { return; }
+
+  // 1. Reveal anything hidden — whether by an inline style or by a rule in
+  //    the gallery plugin's own stylesheet (a common pattern: every gallery
+  //    image but the first is hidden until the lightbox script runs). We
+  //    check the *computed* style so this catches both cases, and set our
+  //    override as an inline !important, which always wins the cascade.
+  content.querySelectorAll('*').forEach(function (el) {
+    if (el.hasAttribute('hidden')) { el.removeAttribute('hidden'); }
+    var cs = window.getComputedStyle(el);
+    if (cs.display === 'none') {
+      el.style.setProperty('display', 'block', 'important');
+    }
+    if (cs.visibility === 'hidden') {
+      el.style.setProperty('visibility', 'visible', 'important');
+    }
+  });
+
+  // 2. Unwrap any <a> that only wraps a single <img> (gallery/lightbox links).
+  content.querySelectorAll('a').forEach(function (a) {
+    var img = a.querySelector('img');
+    if (img && a.children.length === 1 && a.textContent.trim() === '') {
+      a.replaceWith(img);
+    }
+  });
+
+  // 3. Replace every image with a clone of itself to strip any JS click
+  //    listeners the gallery plugin attached directly to it, and force any
+  //    lazy-loaded image to show its real source right away.
+  content.querySelectorAll('img').forEach(function (img) {
+    if (img.dataset && img.dataset.src && !img.getAttribute('src')) {
+      img.setAttribute('src', img.dataset.src);
+    }
+    var clone = img.cloneNode(true);
+    img.parentNode.replaceChild(clone, img);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', lionsEtAlCleanPostImages);
+window.addEventListener('load', lionsEtAlCleanPostImages);
+setTimeout(lionsEtAlCleanPostImages, 400);
+
+document.addEventListener('DOMContentLoaded', function () {
+  var content = document.querySelector('.single-post .post-content');
+  if (!content) { return; }
+  // 4. Backstop: swallow any click that still bubbles up from inside the
+  //    post content (e.g. a plugin's delegated click handler on an ancestor
+  //    element) so nothing pops open a lightbox/modal.
+  content.addEventListener('click', function (e) {
+    e.preventDefault();
+    e.stopPropagation();
+  });
+});</script><script>(function () {
+  var postsContainer = document.getElementById('posts');
+  var status = document.getElementById('infinite-scroll-status');
+  var loading = false;
+
+  if (!postsContainer) { return; }
+
+  function getNextLink(root) {
+    return root.querySelector('#next-page-link');
+  }
+
+  function loadNextPage() {
+    var link = getNextLink(document);
+    if (!link || loading) { return; }
+    var url = link.getAttribute('href');
+    if (!url) { return; }
+
+    loading = true;
+    if (status) { status.textContent = 'loading more entries…'; }
+
+    fetch(url, { credentials: 'include' })
+      .then(function (res) { return res.text(); })
+      .then(function (html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, 'text/html');
+
+        var newPosts = doc.getElementById('posts');
+        if (newPosts) {
+          while (newPosts.firstChild) {
+            postsContainer.appendChild(newPosts.firstChild);
+          }
+        }
+
+        var newPagination = doc.getElementById('pagination');
+        var oldPagination = document.getElementById('pagination');
+        if (newPagination && oldPagination) {
+          oldPagination.innerHTML = newPagination.innerHTML;
+        }
+
+        var stillHasNext = getNextLink(document);
+        if (status) { status.textContent = stillHasNext ? '' : 'that\'s every entry so far.'; }
+        loading = false;
+      })
+      .catch(function () {
+        if (status) { status.textContent = 'couldn\'t load more right now.'; }
+        loading = false;
+      });
+  }
+
+  function nearBottom() {
+    return (window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800);
+  }
+
+  window.addEventListener('scroll', function () {
+    if (nearBottom()) { loadNextPage(); }
+  });
+})();</script></body></html>

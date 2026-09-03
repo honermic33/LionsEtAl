@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/get-set.html",
+            "url": "https://lionsetal.com/get-set.html",
+            "title": "Get Set",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg\" alt=\"\" width=\"4040\" height=\"5684\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg\" alt=\"\" width=\"4040\" height=\"5684\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-02T21:39:16-04:00",
+            "date_modified": "2026-09-02T21:39:25-04:00"
+        },
+        {
             "id": "https://lionsetal.com/first-impressions.html",
             "url": "https://lionsetal.com/first-impressions.html",
             "title": "First Impressions",

@@ -3,12 +3,35 @@
     <title>Lions et al.</title>
     <link href="https://lionsetal.com/feed.xml" rel="self" />
     <link href="https://lionsetal.com" />
-    <updated>2026-08-21T20:16:35-04:00</updated>
+    <updated>2026-09-02T21:39:25-04:00</updated>
     <author>
         <name>Michael G. Honer</name>
     </author>
     <id>https://lionsetal.com</id>
 
+    <entry>
+        <title>Get Set</title>
+        <author>
+            <name>Michael G. Honer</name>
+        </author>
+        <link href="https://lionsetal.com/get-set.html"/>
+        <id>https://lionsetal.com/get-set.html</id>
+
+        <updated>2026-09-02T21:39:16-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg" alt="" width="4040" height="5684"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg" alt="" width="4040" height="5684"></figure>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First Impressions</title>
         <author>
