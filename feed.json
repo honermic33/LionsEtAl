@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/go-time.html",
+            "url": "https://lionsetal.com/go-time.html",
+            "title": "Go Time!",
+            "summary": "<figure class=\"post__image\"><img  src=\"https://lionsetal.com/media/posts/7/LionsEtAl_Post4.1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/7/LionsEtAl_Post4.3.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/7/LionsEtAl_Post4.2.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img  src=\"https://lionsetal.com/media/posts/7/LionsEtAl_Post4.1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/7/LionsEtAl_Post4.3.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/7/LionsEtAl_Post4.2.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-13T10:41:31-04:00",
+            "date_modified": "2026-09-13T10:41:31-04:00"
+        },
+        {
             "id": "https://lionsetal.com/get-set.html",
             "url": "https://lionsetal.com/get-set.html",
             "title": "Get Set",
