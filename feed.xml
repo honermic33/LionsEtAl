@@ -3,12 +3,35 @@
     <title>Lions et al.</title>
     <link href="https://lionsetal.com/feed.xml" rel="self" />
     <link href="https://lionsetal.com" />
-    <updated>2026-09-13T10:45:00-04:00</updated>
+    <updated>2026-09-17T17:36:18-04:00</updated>
     <author>
         <name>Michael G. Honer</name>
     </author>
     <id>https://lionsetal.com</id>
 
+    <entry>
+        <title>Second Takes</title>
+        <author>
+            <name>Michael G. Honer</name>
+        </author>
+        <link href="https://lionsetal.com/second-takes.html"/>
+        <id>https://lionsetal.com/second-takes.html</id>
+
+        <updated>2026-09-17T17:36:18-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/8/LionsEtAl_Post5.jpg" alt="" width="3024" height="4032"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/8/LionsEtAl_Post5.jpg" alt="" width="3024" height="4032"></figure>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Go Time!</title>
         <author>
