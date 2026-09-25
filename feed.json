@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/bouncing-back.html",
+            "url": "https://lionsetal.com/bouncing-back.html",
+            "title": "Bouncing Back",
+            "summary": "<figure class=\"post__image\"><img  src=\"https://lionsetal.com/media/posts/9/LionsEtAl_Post6.1.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/9/LionsEtAl_Post6.2.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img  src=\"https://lionsetal.com/media/posts/9/LionsEtAl_Post6.1.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/9/LionsEtAl_Post6.2.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-25T18:55:42-04:00",
+            "date_modified": "2026-09-25T18:55:42-04:00"
+        },
+        {
             "id": "https://lionsetal.com/second-takes.html",
             "url": "https://lionsetal.com/second-takes.html",
             "title": "Second Takes",
