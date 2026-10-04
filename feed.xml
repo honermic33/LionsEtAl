@@ -3,12 +3,35 @@
     <title>Lions et al.</title>
     <link href="https://lionsetal.com/feed.xml" rel="self" />
     <link href="https://lionsetal.com" />
-    <updated>2026-09-25T18:55:42-04:00</updated>
+    <updated>2026-10-04T08:57:47-04:00</updated>
     <author>
         <name>Michael G. Honer</name>
     </author>
     <id>https://lionsetal.com</id>
 
+    <entry>
+        <title>Keep On Truckin&#x27;</title>
+        <author>
+            <name>Michael G. Honer</name>
+        </author>
+        <link href="https://lionsetal.com/keep-on-truckin.html"/>
+        <id>https://lionsetal.com/keep-on-truckin.html</id>
+
+        <updated>2026-10-04T08:57:47-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/10/LionsEtAl_Post7.jpg" alt="" width="3024" height="4032"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/10/LionsEtAl_Post7.jpg" alt="" width="3024" height="4032"></figure>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bouncing Back</title>
         <author>
