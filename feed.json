@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/vacateshun-time.html",
+            "url": "https://lionsetal.com/vacateshun-time.html",
+            "title": "Vacate/Shun Time",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/12/LionsEtAl_Post9.jpg\" alt=\"\" width=\"3021\" height=\"3744\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/12/LionsEtAl_Post9.jpg\" alt=\"\" width=\"3021\" height=\"3744\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-18T12:14:53-04:00",
+            "date_modified": "2026-10-18T12:14:53-04:00"
+        },
+        {
             "id": "https://lionsetal.com/red-alert.html",
             "url": "https://lionsetal.com/red-alert.html",
             "title": "Red Alert?",
