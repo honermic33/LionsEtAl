@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/mettlelurgy.html",
+            "url": "https://lionsetal.com/mettlelurgy.html",
+            "title": "Mettlelurgy",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/14/LionsEtAl_Post11.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/14/LionsEtAl_Post11.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T10:46:34-05:00",
+            "date_modified": "2026-11-01T10:46:34-05:00"
+        },
+        {
             "id": "https://lionsetal.com/entropys-playground.html",
             "url": "https://lionsetal.com/entropys-playground.html",
             "title": "Entropy&#x27;s Haus",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-08-21T20:16:20-04:00",
             "date_modified": "2026-08-21T20:16:35-04:00"
-        },
-        {
-            "id": "https://lionsetal.com/hello-there.html",
-            "url": "https://lionsetal.com/hello-there.html",
-            "title": "Hello there.",
-            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/3/LionsEtAl_Post1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/3/LionsEtAl_Post1.jpg\" alt=\"\" width=\"4284\" height=\"5712\"></figure>\n\n<p> </p>",
-            "author": {
-                "name": "Michael G. Honer"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-08T10:09:21-04:00",
-            "date_modified": "2026-08-08T10:09:42-04:00"
         }
     ]
 }
