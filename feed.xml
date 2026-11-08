@@ -3,12 +3,35 @@
     <title>Lions et al.</title>
     <link href="https://lionsetal.com/feed.xml" rel="self" />
     <link href="https://lionsetal.com" />
-    <updated>2026-11-01T10:46:34-05:00</updated>
+    <updated>2026-11-08T12:29:34-05:00</updated>
     <author>
         <name>Michael G. Honer</name>
     </author>
     <id>https://lionsetal.com</id>
 
+    <entry>
+        <title>Year &#x3D; Good</title>
+        <author>
+            <name>Michael G. Honer</name>
+        </author>
+        <link href="https://lionsetal.com/year-good.html"/>
+        <id>https://lionsetal.com/year-good.html</id>
+
+        <updated>2026-11-08T12:29:34-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/15/LionsEtAl_Post12.jpg" alt="" width="3024" height="4032"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/15/LionsEtAl_Post12.jpg" alt="" width="3024" height="4032"></figure>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mettlelurgy</title>
         <author>
@@ -211,29 +234,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg" alt="" width="4040" height="5684"></figure>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>First Impressions</title>
-        <author>
-            <name>Michael G. Honer</name>
-        </author>
-        <link href="https://lionsetal.com/first-impressions.html"/>
-        <id>https://lionsetal.com/first-impressions.html</id>
-
-        <updated>2026-08-21T20:16:20-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/5/LionsEtAl_Post2.jpg" alt="" width="4284" height="5712"></figure>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/5/LionsEtAl_Post2.jpg" alt="" width="4284" height="5712"></figure>
 
 <p> </p>
             ]]>
