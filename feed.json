@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://lionsetal.com/lustige-woche.html",
+            "url": "https://lionsetal.com/lustige-woche.html",
+            "title": "Lustige Woche",
+            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/16/LionsEtAl_Post13.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/16/LionsEtAl_Post13.jpg\" alt=\"\" width=\"3024\" height=\"4032\"></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Michael G. Honer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-14T14:37:44-05:00",
+            "date_modified": "2026-11-14T14:37:44-05:00"
+        },
+        {
             "id": "https://lionsetal.com/year-good.html",
             "url": "https://lionsetal.com/year-good.html",
             "title": "Year &#x3D; Good",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-09-13T10:41:31-04:00",
             "date_modified": "2026-09-13T10:45:00-04:00"
-        },
-        {
-            "id": "https://lionsetal.com/get-set.html",
-            "url": "https://lionsetal.com/get-set.html",
-            "title": "Get Set",
-            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg\" alt=\"\" width=\"4040\" height=\"5684\"></figure>\n",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg\" alt=\"\" width=\"4040\" height=\"5684\"></figure>\n\n<p> </p>",
-            "author": {
-                "name": "Michael G. Honer"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-02T21:39:16-04:00",
-            "date_modified": "2026-09-02T21:39:25-04:00"
         }
     ]
 }

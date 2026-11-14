@@ -3,12 +3,35 @@
     <title>Lions et al.</title>
     <link href="https://lionsetal.com/feed.xml" rel="self" />
     <link href="https://lionsetal.com" />
-    <updated>2026-11-08T12:29:34-05:00</updated>
+    <updated>2026-11-14T14:37:44-05:00</updated>
     <author>
         <name>Michael G. Honer</name>
     </author>
     <id>https://lionsetal.com</id>
 
+    <entry>
+        <title>Lustige Woche</title>
+        <author>
+            <name>Michael G. Honer</name>
+        </author>
+        <link href="https://lionsetal.com/lustige-woche.html"/>
+        <id>https://lionsetal.com/lustige-woche.html</id>
+
+        <updated>2026-11-14T14:37:44-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/16/LionsEtAl_Post13.jpg" alt="" width="3024" height="4032"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/16/LionsEtAl_Post13.jpg" alt="" width="3024" height="4032"></figure>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Year &#x3D; Good</title>
         <author>
@@ -211,29 +234,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img  src="https://lionsetal.com/media/posts/7/LionsEtAl_Post4.1.jpg" alt="" width="4284" height="5712"></figure><figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/7/LionsEtAl_Post4.2.jpg" alt="" width="3024" height="4032"></figure><figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/7/LionsEtAl_Post4.3.jpg" alt="" width="3024" height="4032"></figure>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Get Set</title>
-        <author>
-            <name>Michael G. Honer</name>
-        </author>
-        <link href="https://lionsetal.com/get-set.html"/>
-        <id>https://lionsetal.com/get-set.html</id>
-
-        <updated>2026-09-02T21:39:16-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg" alt="" width="4040" height="5684"></figure>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lionsetal.com/media/posts/6//LionsEtAl_Post3.jpg" alt="" width="4040" height="5684"></figure>
 
 <p> </p>
             ]]>
